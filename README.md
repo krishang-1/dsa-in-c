@@ -1,1 +1,11 @@
-"# DSA in C\n\nThis repo contains daily solved DSA problems in C, organized by day and topic.\n\n## Structure\n- dsa-day1-arrays/  Basic arrays: reverse, shift, second largest\n- dsa-day2-functions/  Functions and pointers: swap, reverse, find\n- dsa-day3-strings/  (upcoming) Strings, recursion, frequency\n\nMore to be added daily." 
+# DSA in C
+
+This repo contains daily solved DSA problems in C, organized by day and topic.
+
+## Structure
+
+- `dsa-day1-arrays/` – Array problems: reverse, shift, second largest
+- `dsa-day2-functions/` – Pointer problems: swap, reverse, find with pointers
+- `dsa-day3-strings/` – (upcoming) Strings, recursion, frequency analysis
+
+Each day builds on the previous one. Code is written with clarity, readability, and low-level control in mind.
